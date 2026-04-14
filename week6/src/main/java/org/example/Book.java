@@ -13,10 +13,12 @@ public class Book {
         this.year = year;
     }
 
+    @Override
     public String toString() {
         return title + " " + author + " " + year;
     }
 
+    @Override
     public boolean equals(Object obj) {
         if (obj == null) return false;
 

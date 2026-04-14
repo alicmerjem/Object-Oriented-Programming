@@ -12,6 +12,8 @@
         <module name="week5practice" />
         <module name="week4" />
         <module name="week5" />
+        <module name="week6" />
+        <module name="week7" />
       </profile>
     </annotationProcessing>
   </component>
